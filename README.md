@@ -41,10 +41,6 @@ Il progetto richiede specifiche librerie Python per funzionare (Selenium, Pandas
 
 ## 🚀 Utilizzo
 
-Lo script si esegue da riga di comando. utilizare il tag -h o --help vedere la sintassi
-
-### 1. Verifica semplice
-Per verificare se una matricola è presente nel censimento:
-
+Lo script si esegue da riga di comando. Utilizare il tag -h o --help vedere la sintassi
 ```bash
-python get_data.py <CODICE_MATRICOLA>
+python get_data.py --help
