@@ -1,0 +1,18 @@
+# Ignora l'ambiente virtuale 
+autovelox_venv/
+
+# Ignora i file compilati di Python
+__pycache__/
+*.pyc
+
+# Ignora i file di output
+*.csv
+
+# Ignora driver locali se presenti
+geckodriver
+geckodriver.exe
+chromedriver
+chromedriver.exe
+
+#ignora file ausiliari
+test.py
