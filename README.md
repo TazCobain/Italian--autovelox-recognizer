@@ -1,5 +1,3 @@
-# Italian-autovelox-recognizer
-
 # 📸 Verifica Censimento Autovelox (MIT)
 
 Questo strumento in Python interagisce con la piattaforma ufficiale del **Ministero delle Infrastrutture e dei Trasporti Italiano**. 
